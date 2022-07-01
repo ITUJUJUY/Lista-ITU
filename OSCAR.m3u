@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1,HOLVOET TV
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+#EXTINF:-1, tvg-id="ext" group-title="Musica",Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:-1, tvg-id="ext" group-title="Musica",Music Channels:Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1397767252.m3u8
+#EXTINF:-1, Videolina www.achoAPPS.com
+http://livestreaming.videolina.it/live/Videolina/playlist.m3u
+#EXTINF:-1, HBO 
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+#EXTINF:-1,  HBO 2 
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+#EXTINF:-1,  HBO Plus 
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+#EXTINF:-1,  HBO Family 
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+#EXTINF:-1, HBO POP 
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+#EXTINF:-1, HBO Mundi 
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+#EXTINF:-1,  HBO Xtreme 
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+
