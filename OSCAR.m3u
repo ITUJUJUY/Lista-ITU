@@ -3,12 +3,20 @@
 
 #EXTINF:-1,HOLVOET TV
 http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
-#EXTINF:-1, tvg-id="ext" group-title="Musica",Music Top
-http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
-#EXTINF:-1, tvg-id="ext" group-title="Musica",Music Channels:Retro Music
+#EXTINF:-1, Music Top HD
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1, Retro Music HD
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1397767252.m3u8
-#EXTINF:-1, Videolina www.achoAPPS.com
+#EXTINF:-1, Videolina 
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u
+#EXTINF:-1, MTV HD
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+#EXTINF:-1, Much Music 
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
+#EXTINF:-1, CM (Canal de la Musica) 
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
+#EXTINF:-1, Rock TV HD
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
 #EXTINF:-1,  HBO HD
 https://edge3-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 #EXTINF:-1,  HBO 2 HD
@@ -27,9 +35,73 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extr
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 #EXTINF:-1, TNT Sports 
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-#EXTINF:-1, Fox Sports Premium 
+#EXTINF:-1, Fox Sports Premium HD
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
-
-
+#EXTINF:-1, ESPN Premium 
+https://edge3-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:-1, STAR CHANEL HD
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+#EXTINF:-1, AXN HD
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+#EXTINF:-1, Cinecanal HD
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+#EXTINF:-1, Cinemax
+https://edge3-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+#EXTINF:-1, Paramount Channel HD
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+#EXTINF:-1, Warner Channel HD
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+#EXTINF:-1, TNT HD
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+#EXTINF:-1, TNT Series 
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+#EXTINF:-1, Universal Channel 
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+#EXTINF:-1, Sony Channel
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+#EXTINF:-1,Azteca Siete 
+https://live.tvplusgratis.com/hls/cum988e8mxraxmpll/29_.m3u8?token=iK0icpqmRVaZPeXiyL0wpQ&expires=1656736131&ip=186.182.88.178
+#EXTINF:-1, Univision  HD
+https://usher.ttvnw.net/api/channel/hls/unv_060nl.m3u8?allow_source=true&fast_bread=true&p=5111060&play_session_id=5be8b035edc33f5e2c50886c90f14fde&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=1627eda5766a1010cba56231fdbc4fea8c433984&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22unv_060nl%22%2C%22channel_id%22%3A800199346%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22KqpXWLv5EooiIG6SRgiy9qQlFxjMojfu%22%2C%22expires%22%3A1656727549%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.182.88.178%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.11.0
+#EXTINF:-1,UNIMAS 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/64_.m3u8?token=FeqX8NGXtZ0dHCPxcH1tBw&expires=1656737477&ip=186.182.88.178
+#EXTINF:-1, AMC 
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC-mp4a_144800_eng=20000-scale=48000-init.mp4
+#EXTINF:-1, Space HD
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space-mp4a_144800_eng=20001-scale=48000-init.mp4
+#EXTINF:-1,  TBS 
+https://edge3-hr.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
+#EXTINF:-1,  Comedy central 
+https://edge3-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
+#EXTINF:-1, Universal TV 
+https://edge3-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+#EXTINF:-1, Ver Discovery Channel HD 
+https://edge3-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+#EXTINF:-1,  Ver Discovery Turbo HD
+https://edge3-hr.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
+#EXTINF:-1,  Ver Discovery World HD
+https://edge3-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
+#EXTINF:-1, Ver Discovery Theater HD
+https://edge3-hr.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
+#EXTINF:-1, Ver Discovery Science 
+https://edge3-hr.cvattv.com.ar/live/c6eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
+#EXTINF:-1, Discovery TLC HD
+https://edge3-hr.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
+#EXTINF:-1, Investigation Discovery (ID) 
+https://edge3-hr.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
+#EXTINF:-1, Animal Planet HD
+https://edge3-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
+#EXTINF:-1, Love Nature HD
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1, Discovery Home & Health 
+https://edge3-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+#EXTINF:-1, National Geographic HD 
+https://edge3-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+#EXTINF:-1, History Channel HD 
+https://edge3-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+#EXTINF:-1, History Channel 2 
+https://edge3-hr.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
+#EXTINF:-1 Canal (á) 
+https://edge3-hr.cvattv.com.ar/live/c6eds/Canal_a/SA_SAGEMCOM/Canal_a.m3u8
 
 
