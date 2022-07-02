@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTINF:-1,HOLVOET TV
@@ -8,18 +9,27 @@ http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1397767252.m3u8
 #EXTINF:-1, Videolina www.achoAPPS.com
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u
-#EXTINF:-1, HBO 
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
-#EXTINF:-1,  HBO 2 
+#EXTINF:-1,  HBO HD
+https://edge3-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+#EXTINF:-1,  HBO 2 HD
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
-#EXTINF:-1,  HBO Plus 
+#EXTINF:-1,  HBO Plus HD
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
-#EXTINF:-1,  HBO Family 
+#EXTINF:-1,  HBO Family HD
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 #EXTINF:-1, HBO POP 
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
 #EXTINF:-1, HBO Mundi 
-https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
 #EXTINF:-1,  HBO Xtreme 
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+#EXTINF:-1,  TyC Sports
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+#EXTINF:-1, TNT Sports 
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+#EXTINF:-1, Fox Sports Premium 
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+
+
+
 
