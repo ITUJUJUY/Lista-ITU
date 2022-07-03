@@ -1,20 +1,5 @@
-
 #EXTM3U
 
-#EXTINF:-1,HOLVOET TV
-http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
-#EXTINF:-1, Music Top HD
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1, Retro Music HD
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1397767252.m3u8
-#EXTINF:-1, Videolina 
-http://livestreaming.videolina.it/live/Videolina/playlist.m3u
-#EXTINF:-1, MTV HD
-https://edge-live16-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
-#EXTINF:-1, Much Music 
-https://edge-live16-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
-#EXTINF:-1, CM (Canal de la Musica) 
-https://edge-live16-sl.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
 #EXTINF:-1, Rock TV HD
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
 #EXTINF:-1,  HBO HD
@@ -31,14 +16,6 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
 #EXTINF:-1,  HBO Xtreme 
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
-#EXTINF:-1,  TyC Sports
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
-#EXTINF:-1, TNT Sports 
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-#EXTINF:-1, Fox Sports Premium HD
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
-#EXTINF:-1, ESPN Premium 
-https://edge3-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1, STAR CHANEL HD
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 #EXTINF:-1, AXN HD
@@ -59,31 +36,53 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 #EXTINF:-1, Sony Channel
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
-#EXTINF:-1,Azteca Siete 
-https://live.tvplusgratis.com/hls/cum988e8mxraxmpll/29_.m3u8?token=iK0icpqmRVaZPeXiyL0wpQ&expires=1656736131&ip=186.182.88.178
-#EXTINF:-1, Univision  HD
-https://usher.ttvnw.net/api/channel/hls/unv_060nl.m3u8?allow_source=true&fast_bread=true&p=5111060&play_session_id=5be8b035edc33f5e2c50886c90f14fde&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=1627eda5766a1010cba56231fdbc4fea8c433984&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22unv_060nl%22%2C%22channel_id%22%3A800199346%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22KqpXWLv5EooiIG6SRgiy9qQlFxjMojfu%22%2C%22expires%22%3A1656727549%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.182.88.178%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.11.0
-#EXTINF:-1,UNIMAS 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/64_.m3u8?token=FeqX8NGXtZ0dHCPxcH1tBw&expires=1656737477&ip=186.182.88.178
-#EXTINF:-1, AMC 
-https://edge-live16-hr.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_2A/AMC-mp4a_144800_eng=20000-scale=48000-init.mp4
-#EXTINF:-1, Space HD
-https://edge-live16-hr.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_2A/Space-mp4a_144800_eng=20001-scale=48000-init.mp4
 #EXTINF:-1,  TBS 
 https://edge3-hr.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
 #EXTINF:-1,  Comedy central 
 https://edge3-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
 #EXTINF:-1, Universal TV 
 https://edge3-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
-#EXTINF:-1, Ver Discovery Channel HD 
+#EXTINF:-1, Syfy hd
+https://edge3-sl.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
+#EXTINF:-1, TCM 
+https://edge3-sl.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8
+#EXTINF:-1, AMC HD
+https://edge3-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
+#EXTINF:-1, AXN en vivo 
+https://edge3-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+#EXTINF:-1, Space 
+https://edge3-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space-dfxp_10000_spa_SUBT=30001.m3u8
+#EXTINF:-1, TBS HD
+https://edge3-sl.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
+#EXTINF:-1, Studio Universal HD
+https://edge3-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
+#EXTINF:-1, Universal TV HD
+https://edge3-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+#EXTINF:-1, Warner Channel HD
+https://edge3-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+#EXTINF:-1, Sony Canal Comedias 
+https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, Más Chic HD
+https://edge3-sl.cvattv.com.ar/live/c6eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
+#EXTINF:-1, TruTV HD
+https://edge3-sl.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
+#EXTINF:-1, Food Network HD
+https://edge3-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
+#EXTINF:-1, Lifetime HD
+https://edge3-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
+#EXTINF:-1, Syfy hd
+https://edge3-sl.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
+#EXTINF:-1, DMAX HD
+
+#EXTINF:-1,  Discovery Channel HD 
 https://edge3-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
-#EXTINF:-1,  Ver Discovery Turbo HD
+#EXTINF:-1,   Discovery Turbo HD
 https://edge3-hr.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
-#EXTINF:-1,  Ver Discovery World HD
+#EXTINF:-1,   Discovery World HD
 https://edge3-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
-#EXTINF:-1, Ver Discovery Theater HD
+#EXTINF:-1,  Discovery Theater HD
 https://edge3-hr.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
-#EXTINF:-1, Ver Discovery Science 
+#EXTINF:-1,  Discovery Science 
 https://edge3-hr.cvattv.com.ar/live/c6eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
 #EXTINF:-1, Discovery TLC HD
 https://edge3-hr.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
@@ -101,7 +100,158 @@ https://edge3-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 https://edge3-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 #EXTINF:-1, History Channel 2 
 https://edge3-hr.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
-#EXTINF:-1 Canal (á) 
+#EXTINF:-1, National Geographic HD
+https://edge3-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+#EXTINF:-1, A&E HD
+https://edge3-sl.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
+
+#EXTINF:-1, Canal (á) 
 https://edge3-hr.cvattv.com.ar/live/c6eds/Canal_a/SA_SAGEMCOM/Canal_a.m3u8
+#EXTINF:-1, Nueva Imagen HD
+https://edge3-hr.cvattv.com.ar/live/c6eds/Nueva_Imagen/SA_SAGEMCOM/Nueva_Imagen.m3u8
+#EXTINF:-1, Canal Cuatro 
+https://jn7vb358739ewkxz.cdnexpress23.net:8443/hls/bt9yc5a.m3u8?s=LqL8l4pp19yGCmtAlhtEyA&e=1656835650
+#EXTINF:-1,
+
+#EXTINF:-1,  TN hd
+https://edge3-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+#EXTINF:-1, Telefe hd
+https://edge3-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+#EXTINF:-1, El Trece (Canal 13) hd
+https://edge3-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+#EXTINF:-1, America TV hd
+https://edge3-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+#EXTINF:-1, Cronica TV HD 
+https://edge3-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
+#EXTINF:-1, Canal 9 (El Nueve) hd
+https://edge3-hr.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+#EXTINF:-1, America 24 HD
+https://edge3-hr.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
+#EXTINF:-1, Canal 26 HD
+https://edge3-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
+#EXTINF:-1, Canal 10 Río Negro
+https://panel.dattalive.com/8204/8204/playlist.m3u8
+#EXTINF:-1, Tierra Mía TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1, El Doce de Córdoba HD
+https://edge3-hr.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_SAGEMCOM/Canal_12_CBA.m3u8
+#EXTINF:-1, Doce Misiones (Canal 12 de Posadas) HD
+https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8
+#EXTINF:-1, El Tres (Canal 3 Rosario) 
+https://edge3-hr.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_SAGEMCOM/Canal_3_Rosario.m3u8
+#EXTINF:-1, Canal 10 Córdoba 
+https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_SAGEMCOM/Canal10_CBA_HD.m3u8
+#EXTINF:-1, Canal 79 (Mar Del Plata) HD
+https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
+#EXTINF:-1, Televida (Canal 9 Mendoza) 
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
+#EXTINF:-1, Canal 10 Uruguay 
+https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
+#EXTINF:-1, Teledoce (Canal 12 Uruguay) HD
+https://edge3-hr.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
+#EXTINF:-1, Canal Las Estrellas 
+https://edge3-sl.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
+
+#EXTINF:-1, Canal 4 Uruguay 
+https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,  TyC Sports
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+#EXTINF:-1, TNT Sports 
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+#EXTINF:-1, Fox Sports Premium HD
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:-1, ESPN Premium 
+https://edge3-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:-1, ESPN HD
+https://edge3-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+#EXTINF:-1, ESPN 2 HD
+https://edge3-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+#EXTINF:-1, ESPN 3 HD
+https://edge3-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+#EXTINF:-1, ESPN 4 
+https://edge3-hr.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
+#EXTINF:-1,  ESPN Extra HD
+https://edge3-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+#EXTINF:-1, Fox Sports HD
+https://edge4-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:-1, Fox Sports 2 HD
+https://edge3-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+#EXTINF:-1, Fox Sports 3 HD
+https://edge3-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+#EXTINF:-1, VTV HD 
+https://edge3-hr.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
+#EXTINF:-1, WWE Network 
+https://ed3.zorrohd.nl/live/ST457a60c9b5a7c09.m3u8
+
+#EXTINF:-1,  Top Latino HD
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:-1, MTV HD
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+#EXTINF:-1, Much Music 
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
+#EXTINF:-1, CM (Canal de la Musica) HD
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
+#EXTINF:-1, Vorterix Musica HD
+https://edge3-hr.cvattv.com.ar/live/c6eds/Vorterix/SA_SAGEMCOM/Vorterix.m3u8
+#EXTINF:-1, MTV Hits HD 
+https://edge3-hr.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
+#EXTINF:-1, HTV musica HD
+https://edge3-hr.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV.m3u8
+#EXTINF:-1, Allegro Musica HD
+https://edge3-hr.cvattv.com.ar/live/c7eds/AllegroHD/SA_SAGEMCOM/AllegroHD.m3u8
+#EXTINF:-1,HOLVOET TV
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+#EXTINF:-1, Videolina 
+http://livestreaming.videolina.it/live/Videolina/playlist.m3u
+#EXTINF:-1, Retro Music HD
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1397767252.m3u8
+#EXTINF:-1, Quiero musica HD
+https://edge3-hr.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
+
+#EXTINF:-1, Disney Channel HD
+https://edge3-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+#EXTINF:-1,  Disney XD HD
+https://edge3-hr.cvattv.com.ar/live/c7eds/DisneyXD/SA_SAGEMCOM/DisneyXD.m3u8
+#EXTINF:-1, Discovery Kids HD
+https://edge3-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
+#EXTINF:-1, Disney Junior HD
+https://edge3-hr.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
+#EXTINF:-1, Cartoon Network HD
+https://edge3-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+#EXTINF:-1, Nick Junior HD
+https://edge3-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
+#EXTINF:-1, Nick HD
+https://edge3-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+#EXTINF:-1, Tooncast HD
+https://edge3-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+#EXTINF:-1, PakaPaka HD
+https://edge3-hr.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_SAGEMCOM/PAKA_PAKA.m3u8
+#EXTINF:-1,  BabyFirst HD
+https://edge3-sl.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
+#EXTINF:-1, Cartoonito 
+https://edge3-sl.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
+
+#EXTINF:-1, Redeeming Love (Amor Redentor) 4K
+https://www308.ff-01.com/token=vxNApDmxHzOJ7js8Mfoj7g/1656813632/186.182.0.0/90/e/f7/6ab336fd8c0bb0d3f33efb6612815f7e-480p.mp4
+#EXTINF:-1, Soldado de Élite (The Contractor) 4K
+https://streamtape.com/get_video?id=gjROovJWRLF46Y&expires=1656869493&ip=F0uUKRWZDy9XKxR&token=0AMkjtizfD5z&stream=1
+#EXTINF:-1, Memory: Asesino Sin Memoria 4K
+https://delivery-node-sinan.voe-network.net/hls/,6oarmb555m23cszcr2t4z2jtx6xrjgz7a3drveqqh6iy7e2bldgbxvhls5xa,.urlset/master.m3u8
+#EXTINF:-1, La Fortaleza: El Ojo Del Francotirador 4K
+https://delivery-node-umair.voe-network.net/hls/,6oarmgiz7u23cszcryn4zoj75kv2nnnonwmqhy7wvct5gupiweo4k2azk6ca,.urlset/master.m3u8
+#EXTINF:-1, Moonfall (Caida de la Luna) 4K
+https://delivery-node-iyad.voe-network.net/hls/,6oarmg3f4423cszcr2cm7kbev7rl7hpumwoc2hiom6hyc4jt2j7zumpunuza,.urlset/master.m3u8
+#EXTINF:-1, Muerte en el Nilo 4K
+https://delivery-node-munahid.voe-network.net/hls/,6oarny3b5e23cszcr2zm7yrk5z6uy2gi4ij5ean6lkhlmpq6paqybosasjiq,.urlset/master.m3u8
+#EXTINF:-1,Deep Water (Aguas Profundas) 4K
+https://delivery-node-abia.voe-network.net/hls/,6oarm4gi4a23cszcrzd47izewuy2eofgx7x3p4pxrw3sv6v75f6lfc5jvvfq,.urlset/master.m3u8
+#EXTINF:-1,Sex Appeal (Atraccion Sexual) 4K
+https://delivery-node-khabir.voe-network.net/hls/,6oarnf6a4a23cszcrzfm7prc5vtv6eb7t37qez5fl3rrzbrjgamoyq3qcxvq,.urlset/master.m3u8
+#EXTINF:-1,Sonic 2: La Pelicula 4K
+https://delivery-node-jabalah.voe-network.net/hls/,6oarmoti4u23cszcr2v4zyrjvfa5azltn5766bihghatzzdkd5ofnzc4oyca,.urlset/master.m3u8
+#EXTINF:-1,El Valet 4K
+https://delivery-node-abadi.voe-network.net/hls/,6oarmiru4423cszcr2umznb7xx6c6fu3heq4huz5ans7mzhsgymrmck6yk6a,.urlset/master.m3u8
 
 
