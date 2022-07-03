@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, Rock TV HD
-https://edge-live16-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
 #EXTINF:-1,  HBO HD
 https://edge3-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 #EXTINF:-1,  HBO 2 HD
@@ -111,7 +109,9 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/Canal_a/SA_SAGEMCOM/Canal_a.m3u8
 https://edge3-hr.cvattv.com.ar/live/c6eds/Nueva_Imagen/SA_SAGEMCOM/Nueva_Imagen.m3u8
 #EXTINF:-1, Canal Cuatro 
 https://jn7vb358739ewkxz.cdnexpress23.net:8443/hls/bt9yc5a.m3u8?s=LqL8l4pp19yGCmtAlhtEyA&e=1656835650
-#EXTINF:-1,
+#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qe.png",AZ click HD
+http://190.83.119.67:8000/play/a0qe/index.m3u8
+
 
 #EXTINF:-1,  TN hd
 https://edge3-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
@@ -151,10 +151,12 @@ https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3
 https://edge3-hr.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
 #EXTINF:-1, Canal Las Estrellas 
 https://edge3-sl.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
+#EXTINF:-1, Canal 2  JUJUY HD
+https://player-api.new.livestream.com/accounts/679322/events/3782013/broadcasts/231896435.secure.m3u8?dw=14400&hdnea=st%3D1656884298~exp%3D1656886098~acl%3D%2Fi%2F679322_3782013_lsi8mehp99b91e1pwz3_1%40408386%2F%2A~hmac%3D0b0846187a3601f2ce407b5339e83f643b3885faafa8b087701efd336a7a2e89&token=62c20d76_c83fad39a6952df0b7887cb3783521c38d38e180
+#EXTINF:-1,Canal 4 Jujuy HD
+https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
 
-#EXTINF:-1, Canal 4 Uruguay 
-https://edge3-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
-#EXTINF:-1,
+
 
 #EXTINF:-1,  TyC Sports
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
@@ -209,6 +211,58 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1397767252.m3u8
 #EXTINF:-1, Quiero musica HD
 https://edge3-hr.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
+#EXTINF:-1, Rock TV HD
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
+#EXTINF:-1, tvg-id="VallenatoInternacional.us" tvg-country="US;LATAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/valleinalradio/picture?width=320&height=320" group-title="Argentina",Vallenato Internacional (720p)
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1, HQM BALADAS
+https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
+#EXTINF:-1,HQM Hits
+https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
+#EXTINF:-1, HQM SAPNISH
+https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
+#EXTINF:-1, HQM REMEMBER
+https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
+#EXTINF:-1,HQM RELAX
+https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
+#EXTINF:-1, HQM POP
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+#EXTINF:-1, HQM LATINO
+https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
+#EXTINF:-1, HQM KIDS
+https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
+#EXTINF:-1,HQM JAZZ
+https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
+#EXTINF:-1,HQM DANCE
+https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
+#EXTINF:-1,HQM CLASSIC
+https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
+#EXTINF:-1,HQM BLUES
+https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
+#EXTINF:-1,Top Latino
+https://5cefcbf58ba2e.streamlock.net/latino/latino.stream/playlist.m3u8
+#EXTINF:-1,MUSICTOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1, Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+#EXTINF:-1, 88 STEREO
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1, ACTIVA TV
+https://streamtv.mediasector.es/hls/activatv/.m3u8
+#EXTINF:-1, BEST CABLE MUSIC
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
+#EXTINF:-1, SON TV
+https://sc.id-tv.kz/1hd.m3u8
+#EXTINF:-1, CANTINAZO
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=247600.m3u8
+#EXTINF:-1, CHICHA PERU
+https://pacific.direcnode.com:3715/hybrid/play.m3u8
+#EXTINF:-1,HATUM TV (CHICHA)
+https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8 
+#EXTINF:-1,LATINOS RADIO COLOMBIA
+https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8 
+
+
 
 #EXTINF:-1, Disney Channel HD
 https://edge3-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
@@ -234,7 +288,7 @@ https://edge3-sl.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
 https://edge3-sl.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
 
 #EXTINF:-1, Redeeming Love (Amor Redentor) 4K
-https://www308.ff-01.com/token=vxNApDmxHzOJ7js8Mfoj7g/1656813632/186.182.0.0/90/e/f7/6ab336fd8c0bb0d3f33efb6612815f7e-480p.mp4
+https://delivery-node-anwaar.voe-network.net/hls/,6oarncky7q23cszcrzsmzpjuucjybjz526oe3vxtwpnze5tzgfvpjl3yxb6a,.urlset/master.m3u8
 #EXTINF:-1, Soldado de Élite (The Contractor) 4K
 https://streamtape.com/get_video?id=gjROovJWRLF46Y&expires=1656869493&ip=F0uUKRWZDy9XKxR&token=0AMkjtizfD5z&stream=1
 #EXTINF:-1, Memory: Asesino Sin Memoria 4K
