@@ -156,8 +156,8 @@ https://player-api.new.livestream.com/accounts/679322/events/3782013/broadcasts/
 #EXTINF:-1,Canal 4 Jujuy HD
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
 
-
-
+#EXTINF:-1,TYC HD
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
 #EXTINF:-1,  TyC Sports
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 #EXTINF:-1, TNT Sports 
@@ -307,5 +307,4 @@ https://delivery-node-khabir.voe-network.net/hls/,6oarnf6a4a23cszcrzfm7prc5vtv6e
 https://delivery-node-jabalah.voe-network.net/hls/,6oarmoti4u23cszcr2v4zyrjvfa5azltn5766bihghatzzdkd5ofnzc4oyca,.urlset/master.m3u8
 #EXTINF:-1,El Valet 4K
 https://delivery-node-abadi.voe-network.net/hls/,6oarmiru4423cszcr2umznb7xx6c6fu3heq4huz5ans7mzhsgymrmck6yk6a,.urlset/master.m3u8
-
 
