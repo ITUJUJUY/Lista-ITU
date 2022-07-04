@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTINF:-1,  HBO HD
@@ -70,8 +71,18 @@ https://edge3-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.
 https://edge3-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
 #EXTINF:-1, Syfy hd
 https://edge3-sl.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
-#EXTINF:-1, DMAX HD
-
+#EXTINF:-1,  Comedy Central HD
+https://edge3-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
+#EXTINF:-1, Distrito Comedia HD
+https://live.tvplusgratis.com/hls/cum988e8mxraxmpll/32_.m3u8?token=gWwKCvzcQ6o-vB7r3WDP2Q&expires=1656978670&ip=186.182.88.226
+#EXTINF:-1, Sony Canal Comedias 
+https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, Más Chic HD
+https://edge3-sl.cvattv.com.ar/live/c6eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
+#EXTINF:-1, Food Network HD
+https://edge3-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
+#EXTINF:-1, Discovery HGTV 
+https://edge3-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
 #EXTINF:-1,  Discovery Channel HD 
 https://edge3-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 #EXTINF:-1,   Discovery Turbo HD
@@ -84,6 +95,8 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
 https://edge3-hr.cvattv.com.ar/live/c6eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
 #EXTINF:-1, Discovery TLC HD
 https://edge3-hr.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
+#EXTINF:-1,ver Discovery MAX 
+https://x826ehxzr9gtgd4y.cdnexpress23.net:8443/hls/gvz5ao9w9ahax5.m3u8?s=dENqZLWII1TwE2aztrhbpA&e=1656990060
 #EXTINF:-1, Investigation Discovery (ID) 
 https://edge3-hr.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 #EXTINF:-1, Animal Planet HD
@@ -98,8 +111,6 @@ https://edge3-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 https://edge3-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 #EXTINF:-1, History Channel 2 
 https://edge3-hr.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
-#EXTINF:-1, National Geographic HD
-https://edge3-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 #EXTINF:-1, A&E HD
 https://edge3-sl.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
 
@@ -109,10 +120,20 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/Canal_a/SA_SAGEMCOM/Canal_a.m3u8
 https://edge3-hr.cvattv.com.ar/live/c6eds/Nueva_Imagen/SA_SAGEMCOM/Nueva_Imagen.m3u8
 #EXTINF:-1, Canal Cuatro 
 https://jn7vb358739ewkxz.cdnexpress23.net:8443/hls/bt9yc5a.m3u8?s=LqL8l4pp19yGCmtAlhtEyA&e=1656835650
-#EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0qe.png",AZ click HD
+#EXTINF:-1, AZ click HD
 http://190.83.119.67:8000/play/a0qe/index.m3u8
-
-
+#EXTINF:-1, Az Mundo 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/53_.m3u8?token=RhFwx3Srj4XZHlsJZx4yAg&expires=1656985210&ip=186.182.88.226
+#EXTINF:-1, AZ CINEMA  HD
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/54_.m3u8?token=6-0IVcdGVvS6RAGmSyzugQ&expires=1656985326&ip=186.182.88.226
+#EXTINF:-1, GALAVISION  HD 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/55_.m3u8?token=TbNInpp3SbRE2IacHwGRxA&expires=1656985426&ip=186.182.88.226
+#EXTINF:-1, UNICABLE  HD
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/63_.m3u8?token=MlW0ViGyppDLo89ciTptMg&expires=1656985510&ip=186.182.88.226
+#EXTINF:-1, UNIMAS  HD
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/64_.m3u8?token=RaEg4Uo0IVckUoQANEzwcQ&expires=1656985583&ip=186.182.88.226
+#EXTINF:-1, IMAGEN TV  HD 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/65_.m3u8?token=-sN3_31HBrDJHC-4U3vZsQ&expires=1656985649&ip=186.182.88.226
 #EXTINF:-1,  TN hd
 https://edge3-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
 #EXTINF:-1, Telefe hd
@@ -129,6 +150,10 @@ https://edge3-hr.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
 https://edge3-hr.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
 #EXTINF:-1, Canal 26 HD
 https://edge3-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
+#EXTINF:-1, Ciudad Magazine HD
+https://g4.vxral-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
+#EXTINF:-1, Canal Net 
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8#https://unlimited5-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1, Canal 10 Río Negro
 https://panel.dattalive.com/8204/8204/playlist.m3u8
 #EXTINF:-1, Tierra Mía TV
@@ -145,6 +170,8 @@ https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_SAGEMCOM/Canal10_CBA
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 #EXTINF:-1, Televida (Canal 9 Mendoza) 
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
+#EXTINF:-1, Telemax HD
+https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 #EXTINF:-1, Canal 10 Uruguay 
 https://edge3-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
 #EXTINF:-1, Teledoce (Canal 12 Uruguay) HD
@@ -156,7 +183,7 @@ https://player-api.new.livestream.com/accounts/679322/events/3782013/broadcasts/
 #EXTINF:-1,Canal 4 Jujuy HD
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
 
-#EXTINF:-1,TYC HD
+#EXTINF:-1,TyC Sports Play
 https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
 #EXTINF:-1,  TyC Sports
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
@@ -187,6 +214,8 @@ https://edge3-hr.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
 #EXTINF:-1, WWE Network 
 https://ed3.zorrohd.nl/live/ST457a60c9b5a7c09.m3u8
 
+
+
 #EXTINF:-1,  Top Latino HD
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 #EXTINF:-1, MTV HD
@@ -213,36 +242,12 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1397767252.m3u8
 https://edge3-hr.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
 #EXTINF:-1, Rock TV HD
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
-#EXTINF:-1, tvg-id="VallenatoInternacional.us" tvg-country="US;LATAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/valleinalradio/picture?width=320&height=320" group-title="Argentina",Vallenato Internacional (720p)
+#EXTINF:-1, VallenatoInternacional
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-#EXTINF:-1, HQM BALADAS
-https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
-#EXTINF:-1,HQM Hits
-https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
-#EXTINF:-1, HQM SAPNISH
-https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
-#EXTINF:-1, HQM REMEMBER
-https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
-#EXTINF:-1,HQM RELAX
-https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
-#EXTINF:-1, HQM POP
-https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
-#EXTINF:-1, HQM LATINO
-https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
-#EXTINF:-1, HQM KIDS
-https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
-#EXTINF:-1,HQM JAZZ
-https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
-#EXTINF:-1,HQM DANCE
-https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
-#EXTINF:-1,HQM CLASSIC
-https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
-#EXTINF:-1,HQM BLUES
-https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
+#EXTINF:-1, WOW TV: El Salvador 
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1,Top Latino
 https://5cefcbf58ba2e.streamlock.net/latino/latino.stream/playlist.m3u8
-#EXTINF:-1,MUSICTOP
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1, Ibiza Global TV
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 #EXTINF:-1, 88 STEREO
@@ -251,8 +256,6 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 https://streamtv.mediasector.es/hls/activatv/.m3u8
 #EXTINF:-1, BEST CABLE MUSIC
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
-#EXTINF:-1, SON TV
-https://sc.id-tv.kz/1hd.m3u8
 #EXTINF:-1, CANTINAZO
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=247600.m3u8
 #EXTINF:-1, CHICHA PERU
@@ -286,25 +289,9 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_SAGEMCOM/PAKA_PAKA.m3u8
 https://edge3-sl.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
 #EXTINF:-1, Cartoonito 
 https://edge3-sl.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
+#EXTINF:-1, ALF 24/7 EN VIVO HD | TELEVISION GRATIS HD
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/128_.m3u8?token=DtOVNgCbF1QoEUZywNQfTA&expires=1656985733&ip=186.182.88.226
+#EXTINF:-1,DRAGON BALL SUPER 24/7 EN VIVO HD | TELEVISION GRATIS HD
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/191_.m3u8?token=ZufPiMxvrKxs4_BYtKzAYA&expires=1656985787&ip=186.182.88.226
 
-#EXTINF:-1, Redeeming Love (Amor Redentor) 4K
-https://delivery-node-anwaar.voe-network.net/hls/,6oarncky7q23cszcrzsmzpjuucjybjz526oe3vxtwpnze5tzgfvpjl3yxb6a,.urlset/master.m3u8
-#EXTINF:-1, Soldado de Élite (The Contractor) 4K
-https://streamtape.com/get_video?id=gjROovJWRLF46Y&expires=1656869493&ip=F0uUKRWZDy9XKxR&token=0AMkjtizfD5z&stream=1
-#EXTINF:-1, Memory: Asesino Sin Memoria 4K
-https://delivery-node-sinan.voe-network.net/hls/,6oarmb555m23cszcr2t4z2jtx6xrjgz7a3drveqqh6iy7e2bldgbxvhls5xa,.urlset/master.m3u8
-#EXTINF:-1, La Fortaleza: El Ojo Del Francotirador 4K
-https://delivery-node-umair.voe-network.net/hls/,6oarmgiz7u23cszcryn4zoj75kv2nnnonwmqhy7wvct5gupiweo4k2azk6ca,.urlset/master.m3u8
-#EXTINF:-1, Moonfall (Caida de la Luna) 4K
-https://delivery-node-iyad.voe-network.net/hls/,6oarmg3f4423cszcr2cm7kbev7rl7hpumwoc2hiom6hyc4jt2j7zumpunuza,.urlset/master.m3u8
-#EXTINF:-1, Muerte en el Nilo 4K
-https://delivery-node-munahid.voe-network.net/hls/,6oarny3b5e23cszcr2zm7yrk5z6uy2gi4ij5ean6lkhlmpq6paqybosasjiq,.urlset/master.m3u8
-#EXTINF:-1,Deep Water (Aguas Profundas) 4K
-https://delivery-node-abia.voe-network.net/hls/,6oarm4gi4a23cszcrzd47izewuy2eofgx7x3p4pxrw3sv6v75f6lfc5jvvfq,.urlset/master.m3u8
-#EXTINF:-1,Sex Appeal (Atraccion Sexual) 4K
-https://delivery-node-khabir.voe-network.net/hls/,6oarnf6a4a23cszcrzfm7prc5vtv6eb7t37qez5fl3rrzbrjgamoyq3qcxvq,.urlset/master.m3u8
-#EXTINF:-1,Sonic 2: La Pelicula 4K
-https://delivery-node-jabalah.voe-network.net/hls/,6oarmoti4u23cszcr2v4zyrjvfa5azltn5766bihghatzzdkd5ofnzc4oyca,.urlset/master.m3u8
-#EXTINF:-1,El Valet 4K
-https://delivery-node-abadi.voe-network.net/hls/,6oarmiru4423cszcr2umznb7xx6c6fu3heq4huz5ans7mzhsgymrmck6yk6a,.urlset/master.m3u8
 
