@@ -1,17 +1,36 @@
 
 #EXTM3U
 
-#EXTINF:-1,  HBO HD
+#EXTINF:-1,  HBO HD m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
-#EXTINF:-1,  HBO 2 HD
+#EXTINF:-1, HBO HD mp4
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/HBOHD/SA_Live_dash_enc/HBOHD-mp4a_144800_spa=20001-scale=48000-init.mp4
+#EXTINF:-1,  HBO 2 m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
+#EXTINF:-1, hbo famili mp4
+https://dtvott-cbc.akamaized.net/dash_live_1139/dash/1139_HBO_FAMILY-video=2564800-99455438636515.dash
+#EXTINF:-1,HBO SIGNATURE MP4
+https://dtvott-cbc.akamaized.net/dash_live_1143/dash/1143_HBO_SIGNATURE-video=3930000-99455441450432.dash
+#EXTINF:-1,HBO SIGNATURE MP4 (DTV)
+https://dtvott-cbc.akamaized.net/dash_live_1143/dash/1143_HBO_SIGNATURE-video=3930000-99455457666632.dash
+#EXTINF:-1,HBO SIGNATURE MP4 (FL)
+https://edge10-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature-DVBSUB_TTML_spa_6514162=30001-scale=1000-init.mp4
+#EXTINF:-1,HBO MUNDI MP4
+https://edge-live12-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi-mp4a_144800_spa=20001-scale=48000-init.mp4
+#EXTINF:-1,HBO POP MP4
+https://edge-live13-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP-mp4a_144800_spa=20000-init.mp4
+#EXTINF:-1,HBO XTREAME MP4
+https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme-mp4a_144800_spa=20001-scale=48000-init.mp4
 #EXTINF:-1,Ver Fox Sports Premium 
 https://jn7vb358739ewkxz.cdnexpress23.net:8443/hls/3yud6r.m3u8?s=Q1q9uYyrV4rjBenjnzzxmg&e=1657168602
+#EXTINF:-1,Fox Sports Premium mp4
+https://edge10-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD-mp4a_145200_spa=20001-scale=48000-init.mp4
+#EXTINF:-1,Fox Sports Premium m4v
+https://1125-vos.dtvott.com/DASH/stream_06/Segment-3586529769622610.m4v
 #EXTINF:-1, Cinecanal HD
 https://edge3.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3
-
-
 #EXTINF:-1, Discovery Home & Health HD
 https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_FTA/DiscoveryHomeHealthHD.m3u8
 #EXTINF:-1,Discovery TLC HD
 https://edge3.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
+#EXTINF:-1, Cinecanal 
