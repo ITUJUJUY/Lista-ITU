@@ -1,10 +1,8 @@
 #EXTM3U
                                    
-
-#EXTINF:-1, TyC Sports Play
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
-#EXTINF:-1, TyC Sports
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
-#EXTINF:-1, TNT SPORTS ARG.
-http://mivacuna-sispro.info:8888/567/567/70368
-#EXTINF:-1,ESPN Premium 
+#EXTINF:-1, tvg-name="HBO HD" group-title="PREMIUM",HBO HD
+http://190.83.119.67:8000/play/a0or/index.m3u8
+#EXTINF:-1, tvg-name="HBO2 HD" group-title="PREMIUM",HBO2 HD  
+http://190.83.119.67:8000/play/a0os/index.m3u8
+#EXTINF:-1, tvg-name="HBO Plus HD" group-title="PREMIUM",HBO Plus HD
+http://190.83.119.67:8000/play/a0ot/index.m3u8
